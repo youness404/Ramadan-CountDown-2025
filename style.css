@@ -74,7 +74,7 @@ h1{
 .greeting{
     font-size: 1.5rem;
     margin-top: 2rem;
-    color: #3eb60f;
+    color: #000;
     text-shadow: 4px 4px 8px #fff;
     font-weight: 600;
 }
@@ -99,5 +99,5 @@ footer{
 }
 
 footer .author{
-    color: aqua;
+    color: #000;
 }
