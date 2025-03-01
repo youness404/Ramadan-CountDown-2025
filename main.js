@@ -1,5 +1,5 @@
 // Set the target date for Ramadan 2025
-const ramadanDate = new Date('2025-03-01T00:00:00').getTime();
+const ramadanDate = new Date('2025-03-02T00:00:00').getTime();
 
 // Update the countdown every second
 const countdown = setInterval(() => {
